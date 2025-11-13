@@ -120,7 +120,7 @@ print(full_message)
 
 """
 ============================================
-  CONGRATULATIONS (if that means anything)
+  CONGRATULATIONS
 ============================================
 Well, you've made it through Lesson 1. *slow clap*
 
