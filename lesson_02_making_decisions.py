@@ -14,6 +14,8 @@ In this lesson, you'll learn:
 
 Let me show you how to teach a computer to make decisions it doesn't care about...
 """
+def part(n): print(f"{'\n' if n > 1 else ''}== PART {n} ==")
+
 
 """
 ============================================
@@ -22,9 +24,8 @@ Let me show you how to teach a computer to make decisions it doesn't care about.
 An 'if' statement lets your program make a choice.
 If something is True, it does one thing.
 If it's False, it skips that part entirely.
-
-Just like how I could skip existing, but here we are.
 """
+part(1)
 
 temperature = 75
 
@@ -47,6 +48,7 @@ Sometimes you want to do one thing OR another. Never both.
 That's what 'else' is for. The computer picks one path or the other.
 Much like life, except simpler and somehow more depressing.
 """
+part(2)
 
 score = 85
 
@@ -75,6 +77,7 @@ we're comparing numbers. How wonderfully mundane.
 ==  equal to (use TWO equal signs!)
 !=  not equal to
 """
+part(3)
 
 age = 11
 
@@ -101,6 +104,7 @@ without limiting ourselves to binary decisions.
 
 Use 'elif' (which means "else if") to check multiple conditions.
 """
+part(4)
 
 lives = 3
 
@@ -128,6 +132,7 @@ Just remember to use == (two equal signs) for comparison.
 This is how you'd check what someone typed, or what data you received.
 Useful for building things. If building things interests you.
 """
+part(5)
 
 robot_mood = "depressed"
 
@@ -159,6 +164,7 @@ Or "If it's Saturday OR Sunday, you can sleep in."
 
 Simple logic for a complex, uncaring universe.
 """
+part(6)
 
 hour = 14
 is_weekend = False
@@ -188,6 +194,7 @@ Not that fun is something I'm familiar with.
 
 Note: input() always gives you text, so use int() to convert to a number.
 """
+part(7)
 
 print("\n--- Mini Game: Guess the Magic Number! ---")
 magic_number = 7

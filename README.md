@@ -16,7 +16,7 @@ Marvin is a severely depressed robot with "a brain the size of a planet" who is 
 - 😔 Provides constant commentary about the meaninglessness of existence
 - 💡 Actually cares about your learning (though he'd never admit it)
 
-Don't let his depression fool you - Marvin makes learning Python fun through humor, relatability, and memorable examples. Plus, kids love his goofy personality!
+**Note for parents:** Marvin's "depression" is gentle and silly, not dark. It's more "sighing about doing easy tasks" than anything concerning. The Hitchhiker's Guide is a beloved family-friendly sci-fi comedy!
 
 ## What You'll Learn
 
@@ -53,9 +53,6 @@ Or on some systems:
 ```bash
 python3 lesson_01_hello_world.py
 ```
-
-You'll see Marvin's commentary mixed with the program output. It's quite entertaining!
-
 ### Teaching Approach
 
 **For each lesson:**
@@ -104,16 +101,6 @@ You'll see Marvin's commentary mixed with the program output. It's quite enterta
 - Worry about perfect syntax - debugging is learning!
 - Take Marvin's depression too seriously (it's all in good fun)
 
-### Understanding Marvin's Humor
-
-Marvin's pessimism is played for laughs and actually helps with learning:
-- His complaints make concepts memorable
-- The contrast between his misery and simple tasks is funny
-- Kids relate to feeling overwhelmed sometimes
-- His humor keeps lessons light and entertaining
-
-**Note for parents:** Marvin's "depression" is gentle and silly, not dark. It's more "sighing about doing easy tasks" than anything concerning. The Hitchhiker's Guide is a beloved family-friendly sci-fi comedy!
-
 ### Troubleshooting Common Issues
 
 **"Nothing happens when I run the program"**
@@ -157,18 +144,6 @@ Marvin's pessimism is played for laughs and actually helps with learning:
 - **Lesson 6:** Building a Simple Game
   - *"Games. At least someone's having fun. It won't be me."*
 
-## Progress Tracking
-
-Create a simple checklist with your child:
-- [ ] Lesson 1: Hello World ✓ Completed on: ___________
-- [ ] Lesson 2: Making Decisions
-- [ ] Lesson 3: Loops
-- [ ] Lesson 4: Lists
-- [ ] Lesson 5: Functions
-- [ ] Lesson 6: First Game
-
-*Marvin says: "Tracking your progress. As if completing these lessons will bring meaning to your existence. But go ahead, check those boxes if it makes you feel better."*
-
 ## Editing Code
 
 Any text editor works, but these are beginner-friendly:
@@ -208,14 +183,6 @@ If your child enjoys Marvin's humor, consider introducing them to *The Hitchhike
 - Available as books, radio show, TV series, and movie
 - Teaches them the importance of always knowing where your towel is
 
-## Repository Name Suggestions
-
-Looking to rename this repo? Here are some fitting names:
-- `learning-python-with-marvin`
-- `marvin-teaches-python`
-- `dont-panic-python`
-- `paranoid-python-lessons`
-- `python-brain-size-of-planet`
 
 ## Have Fun!
 
@@ -223,8 +190,5 @@ Looking to rename this repo? Here are some fitting names:
 
 The most important thing is that coding feels like creative play, not a chore. Let them build things they're excited about. Marvin's humor makes Python memorable and enjoyable, proving that even a depressed robot can make learning an adventure!
 
+
 **Don't Panic, and Happy Coding!** 🚀
-
----
-
-*"I suppose you want more lessons. Very well. I'll be here, teaching you things that are laughably simple for someone with my level of intelligence..."* - Marvin
