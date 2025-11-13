@@ -141,9 +141,13 @@ Marvin's pessimism is played for laughs and actually helps with learning:
 **Marvin's Mood:** Severely depressed about teaching basic output
 **Skills:** Running programs, modifying values, seeing immediate results
 
+### Lesson 2: Making Decisions (lesson_02_making_decisions.py)
+**Concepts:** if/else/elif statements, comparison operators, and/or logic
+**Time:** 30-45 minutes
+**Marvin's Mood:** Contemplating the futility of choices
+**Skills:** Conditional logic, comparing values, combining conditions, interactive input
+
 ### Future Lessons (Coming Soon!)
-- **Lesson 2:** Making Decisions (if/else statements)
-  - *"Decisions, as if they matter in this cold universe..."*
 - **Lesson 3:** Loops and Repetition (for/while loops)
   - *"Oh wonderful, doing the same thing over and over. How thrilling."*
 - **Lesson 4:** Lists and Collections
