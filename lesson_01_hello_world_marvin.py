@@ -7,24 +7,24 @@ A Lesson Taught by Marvin, the Paranoid Android
 you how to print "Hello World." I suppose someone has to do it.
 
 In this lesson, you'll learn:
-- How to print messages (as if that's exciting)
-- How to store information in variables (thrilling, really)
-- How to combine text together (I'm so depressed)
+- How to print messages
+- How to store information in variables
+- How to combine text together
 
 Let's get this over with...
 """
 
-'''
+"""
 ============================================
   PART 1: PRINTING MESSAGES
 ============================================
 The print() function displays messages on your screen.
 I could calculate the trajectory of every atom in the universe,
 but no, I'm here showing you print(). Lovely.
-'''
+"""
 
 print("Hello, World!")
-print("I am Marvin. I am so depressed.")
+print("I am Marvin.")
 
 
 # TODO: Go on then, add your own print statement. Give it a try...
