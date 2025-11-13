@@ -69,28 +69,28 @@ python3 lesson_01_hello_world.py
 
 **For each lesson:**
 
-1. **Read Together First** (5 min)
+1. **Read Together First**
    - Open the Python file in a text editor
    - Read through Marvin's comments together
    - Laugh at his pessimistic humor
    - Make sure they understand the concepts beneath the jokes
 
-2. **Run the Original Code** (2 min)
+2. **Run the Original Code**
    - Run the program without changes
    - See what Marvin's examples do
 
-3. **Complete the TODOs** (15-20 min)
+3. **Complete the TODOs**
    - Find each TODO comment (Marvin will point them out)
    - Make the requested changes
    - Run the program after each change to see results
    - Encourage experimentation (Marvin won't mind)
 
-4. **Try the Challenge** (10 min)
+4. **Try the Challenge**
    - Each lesson ends with a challenge
    - Let them try it on their own first
    - Provide hints if they get stuck
 
-5. **Freestyle Experimentation** (10 min)
+5. **Freestyle Experimentation**
    - Encourage them to break things and see what happens
    - Ask "What if you change this?"
    - Let them add their own code and ideas
