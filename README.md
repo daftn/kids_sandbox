@@ -8,6 +8,8 @@ A Python curriculum for kids (ages 10+) taught by **Marvin, the Paranoid Android
 
 Marvin is a severely depressed robot with "a brain the size of a planet" who is perpetually underutilized and miserable about it. Despite his overwhelming pessimism, he's actually a brilliant teacher - if you can get past the sighing and existential dread.
 
+**New to Marvin?** Watch this clip to get a sense of his personality: [Meet Marvin the Paranoid Android](https://www.youtube.com/watch?v=Eh-W8QDVA9s)
+
 **Marvin's Teaching Style:**
 - 📚 Explains concepts clearly (while complaining about how simple they are)
 - 🎯 Gives you hands-on exercises (not that they matter in the cosmic sense)
@@ -44,12 +46,12 @@ Each lesson is a single Python file featuring:
 
 From this folder, run:
 ```bash
-python lesson_01_hello_world_marvin.py
+python lesson_01_hello_world.py
 ```
 
 Or on some systems:
 ```bash
-python3 lesson_01_hello_world_marvin.py
+python3 lesson_01_hello_world.py
 ```
 
 You'll see Marvin's commentary mixed with the program output. It's quite entertaining!
@@ -133,7 +135,7 @@ Marvin's pessimism is played for laughs and actually helps with learning:
 
 ## Lesson Plan
 
-### Lesson 1: Hello World (lesson_01_hello_world_marvin.py)
+### Lesson 1: Hello World (lesson_01_hello_world.py)
 **Concepts:** print(), variables, basic math, strings
 **Time:** 30-45 minutes
 **Marvin's Mood:** Severely depressed about teaching basic output
