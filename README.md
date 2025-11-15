@@ -26,6 +26,18 @@ Each lesson is a single Python file featuring:
 - **TODO instructions** written by Marvin, telling you what to change
 - **Challenges** at the end to test your skills (if you're up for it)
 
+### Why Everything is in One File?
+
+We intentionally keep lessons, instructions, and code together in a single `.py` file because:
+
+✅ **Lower cognitive load** - Kids don't need to switch between windows or remember what they read elsewhere
+✅ **Immediate context** - Explanations are right next to the code they describe
+✅ **Self-contained** - Each lesson file can be shared independently
+✅ **Teaches real practices** - Professional code has extensive comments and documentation
+✅ **Marvin feels present** - His personality is woven throughout, making the code feel alive
+
+This "guided workbook" approach lets kids read, run, and modify code without leaving the file - perfect for beginners!
+
 ## How to Use These Lessons
 
 ### Setting Up
