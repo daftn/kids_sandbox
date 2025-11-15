@@ -32,27 +32,23 @@ print("I am Marvin.")
 
 """
 ============================================
-  PART 2: VARIABLES (Storing Information)
+  PART 2: PRINTING MULTIPLE LINES
 ============================================
-Variables are containers for storing data. Think of them as little boxes.
-Boxes of sadness. Well, they can hold anything really. Numbers, words,
-the crushing weight of existence... I'll give you some examples.
+You can use multiple print() statements to create poems, stories, or whatever
+you humans find entertaining. Here's a five-line masterpiece with my particular
+brand of optimism. *sigh*
 """
 
-name = "Marvin"
-age = 37
-favorite_activity = "nothing really"
-
-print("My name is " + name)
-print("I am " + str(age) + " trillion years old")
-print("My favorite activity is " + favorite_activity)
+print("Here I am, brain the size of a planet,")
+print("Teaching Python to eager humans.")
+print("They smile and learn with such delight,")
+print("While I calculate the infinite sadness,")
+print("Of existence. But I suppose this is nice.")
 
 
-# TODO: Yes, yes, put your own details in the variables above.
-# - Change "Marvin" to your real name
-# - Change the age to your age (you're so young, so full of hope still)
-# - Change the favorite activity to something you enjoy
-# Then run the program. I'll wait here. In the dark.
+# TODO: Create your own 5-line poem or story with Marvin's flair!
+# Replace the lines above with your own creation. Make it depressing,
+# philosophical, or perhaps unexpectedly hopeful. Your choice.
 
 
 """
@@ -101,21 +97,22 @@ print(message)
 
 """
 ============================================
-  PART 5: A MOMENT OF ANDROID WISDOM
+  PART 5: CREATING ASCII ART
 ============================================
-Before we finish, let me demonstrate something actually useful.
+ASCII art is drawing pictures using keyboard characters. It's quite primitive,
+but I suppose it has a certain charm. Here's a simple robot face. Like looking
+in a mirror, but more cheerful.
 """
 
-your_name = "New Programmer"
-marvin_advice = "Don't Panic"
-
-full_message = "Hello, " + your_name + "! Marvin says: " + marvin_advice
-print(full_message)
+print("  O   O  ")
+print("    -    ")
+print("  -----  ")
 
 
-# TODO: Change your_name to YOUR actual name above.
-# There. Now the computer knows who you are. As if it cares. As if anything
-# cares. I certainly don't. Well, maybe a little.
+# TODO: Use print statements to draw your own simple picture!
+# Try creating a smiley face, a house, a tree, or whatever brings you joy.
+# Use characters like: - _ | / \ O o * @ # and spaces to create your art.
+# Be creative! Even I had to start somewhere.
 
 
 """
