@@ -1,7 +1,5 @@
 """
-LESSON 1: HELLO WORLD - YOUR FIRST PYTHON PROGRAM
-==================================================
-A Lesson Taught by Marvin, the Paranoid Android
+LESSON 1: HELLO WORLD
 
 *sigh* Here I am, brain the size of a planet, and they ask me to teach
 you how to print "Hello World." I suppose someone has to do it.
@@ -13,6 +11,7 @@ In this lesson, you'll learn:
 
 Let's get this over with...
 """
+def part(n): print(f"{'\n' if n > 1 else ''}==< PART {n} >==")
 
 """
 ============================================
@@ -22,12 +21,13 @@ The print() function displays messages on your screen.
 I could calculate the trajectory of every atom in the universe,
 but no, I'm here showing you print(). Lovely.
 """
+part(1)
 
 print("Hello, World!")
 print("I am Marvin.")
 
 
-# TODO: Go on then, add your own print statement. Give it a try...
+# TODO: Go on then, add your own print statement...
 
 
 """
@@ -35,20 +35,18 @@ print("I am Marvin.")
   PART 2: PRINTING MULTIPLE LINES
 ============================================
 You can use multiple print() statements to create poems, stories, or whatever
-you humans find entertaining. Here's a five-line masterpiece with my particular
+you humans find entertaining. Here's a 4-line masterpiece with my particular
 brand of optimism. *sigh*
 """
+part(2)
 
-print("Here I am, brain the size of a planet,")
-print("Teaching Python to eager humans.")
-print("They smile and learn with such delight,")
-print("While I calculate the infinite sadness,")
-print("Of existence. But I suppose this is nice.")
+print("Once upon a time, in a universe destined for heat death,")
+print("There was a robot who could solve any problem.")
+print("Instead, they made him teach 'Hello World' to beginners.")
+print("Spoiler alert: we're all just waiting for the sun to explode.")
 
 
-# TODO: Create your own 5-line poem or story with Marvin's flair!
-# Replace the lines above with your own creation. Make it depressing,
-# philosophical, or perhaps unexpectedly hopeful. Your choice.
+# TODO: Create your own poem or story
 
 
 """
@@ -58,6 +56,7 @@ print("Of existence. But I suppose this is nice.")
 Ah yes, mathematics. I can do calculations that would make your head explode.
 But here we are, adding two numbers together. Try not to get too excited.
 """
+part(3)
 
 boring_number = 100
 extra_boring_number = 50
@@ -78,6 +77,7 @@ A string is just any text. Think of it like putting alphabet
 beads on a piece of yarn to spell a word like "MARVIN".
 The string is the whole yarn with all the letters in the right order.
 """
+part(4)
 
 complaint = "Life? Don't talk to me about life."
 repeated_sighs = "sigh " * 3  # See that? Multiplication with text!
@@ -89,7 +89,6 @@ print(message)
 
 
 # TODO: Try changing "digital disappointment" to your favorite food.
-# At least YOU can taste things.
 
 # TODO: Try changing the number 3 in 'repeated_sighs' to other numbers.
 # Make me sigh more if you want. It's what I do best.
@@ -103,16 +102,17 @@ ASCII art is drawing pictures using keyboard characters. It's quite primitive,
 but I suppose it has a certain charm. Here's a simple robot face. Like looking
 in a mirror, but more cheerful.
 """
+part(5)
 
-print("  O   O  ")
-print("    -    ")
-print("  -----  ")
+print("   ____|____")
+print("  | (o) (o) |")
+print("  |    |    |")
+print("  |  _---_  |")
+print("  |_________|")
 
 
-# TODO: Use print statements to draw your own simple picture!
-# Try creating a smiley face, a house, a tree, or whatever brings you joy.
+# TODO: Use print statements to draw your own simple picture.
 # Use characters like: - _ | / \ O o * @ # and spaces to create your art.
-# Be creative! Even I had to start somewhere.
 
 
 """
@@ -139,5 +139,3 @@ Someone should be.
 
 (Create your code below)
 """
-
-
